@@ -11,7 +11,7 @@
 ## Description:
 ![Screen](/docs/screens/screen1.jpg)
 
-Row cutter is a small application which add new line symbol after choosen number of characters.
+Row cutter is a small application which add new line symbol after last word in row which choosen number of characters >= sum of characters in row.
 
 ### How use it:
 * Choose your options
