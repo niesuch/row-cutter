@@ -6,7 +6,7 @@
 1. [Description](https://github.com/niesuch/row-cutter#description)
 2. [How to use it](https://github.com/niesuch/row-cutter#how-to-use-it)
 3. [Install](https://github.com/niesuch/row-cutter#how-to-install)
-4. [Changelogs](https://github.com/niesuch/row-cutter#changelogs)
+4. [Changelog](https://github.com/niesuch/row-cutter#changelog)
 5. [Copyright and License](https://github.com/niesuch/row-cutter#copyright-and-license)
 
 ## Description:
